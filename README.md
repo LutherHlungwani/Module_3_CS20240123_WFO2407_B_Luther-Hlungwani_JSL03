@@ -86,3 +86,4 @@ Example #: [Insert Example Number]
 # Learning Outcome [1 Minute]
 - Reflect on what you've learned from analyzing these code examples in different paradigms.
 
+# https://www.loom.com/share/acce18e020394be3a5ddea7c2f6c2767?sid=d839f8b6-29d1-4aae-bf57-890138d7ea4d
